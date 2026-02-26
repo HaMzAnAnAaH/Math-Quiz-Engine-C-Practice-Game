@@ -22,4 +22,6 @@ The Math Quiz Game project you provided is equivalent to solving multiple progra
 ## Project Purpose
 This project was developed as a hands-on practice application to strengthen problem-solving skills, improve C++ programming fundamentals, and build structured console-based applications.
 
+🔢 Equivalent Programming Problems in This Project
+
 <img width="907" height="849" alt="UFvk4b4URuSZSkIyg4L8_1" src="https://github.com/user-attachments/assets/13e8fef7-44dd-49f7-a795-a2266a6513bd" />

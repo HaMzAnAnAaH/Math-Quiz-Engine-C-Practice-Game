@@ -22,6 +22,7 @@ string GetOpTypeSymbol(enOperationType OpType)
         return "/";
     default:
         return "Mix";
+ 
     }
 }
 
@@ -299,4 +300,5 @@ int main()
     StartGame();
    
     return 0;  
+
 }
